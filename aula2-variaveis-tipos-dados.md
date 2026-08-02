@@ -1,0 +1,1 @@
+As Variáveis são uma 'memória' no computador em que pode armazenar diferentes tipos de inoformações -  como texto, numero ou valor booleano. Dessa forma, serve para armazenar de forma temporária e facilitar o processo de progamação
